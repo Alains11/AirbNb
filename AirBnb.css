@@ -1,6 +1,6 @@
  /* ======= BODY OPTIONS =======*/
 * {
-	/*border: 1px solid black;*/
+/*	border: 1px solid black;*/
 }
 
 body {
@@ -114,14 +114,76 @@ hr {
 }
 /* ======= END SECTION 3 : ONGLETS =======*/
 
-/* =======  =======*/
-/* =======  =======*/
+/* ======= SECTION 4 =======*/
+#section4 {
+	padding-top: 30px;
+	padding-bottom: 50px;
+	height: 30px;
+	line-height: 30px;
+}
 
-/* =======  =======*/
-/* =======  =======*/
+#section4 p {
+	font-size: 1.5em;
+	font-weight: bold;
+}
 
-/* =======  =======*/
-/* =======  =======*/
+#section4 a {
+	color: #000;
+	text-decoration: none;
+}
+/* ======= END SECTINON 4 =======*/
+
+/* ======= SECTION 5 : PHOTOS =======*/
+#section5 img {
+	height: 300px;
+	width: 200px;
+}
+
+.imageleft {
+	padding: 0px 118px 0px 118px;
+}
+
+.imageright {
+	padding-right: 118px;
+}
+/* ======= END SECTION 5 : PHOTOS =======*/
+
+/* ======= SECTION 6 : LEGENDS =======*/
+#section6 {
+	padding-top: 10px;
+}
+
+#section6 a {
+	text-decoration: none;
+	color: #484848;
+}
+
+.liens {
+	display: flex;
+	justify-content: space-between;
+	font-weight: lighter;
+}
+
+.liens span {
+	font-weight: bold;
+}
+
+/*.link1 {
+	padding-right: 30px;
+}
+
+.link2 {
+	padding-right: 10px;
+}
+
+.link3 {
+	padding-right: 20px;
+}
+
+.link4 {
+	padding-right: 20px;
+}*/
+/* ======= END SECTION 6 : LEGENDS =======*/
 
 /* =======  =======*/
 /* =======  =======*/
