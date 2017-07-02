@@ -167,27 +167,31 @@ hr {
 .liens span {
 	font-weight: bold;
 }
-
-/*.link1 {
-	padding-right: 30px;
-}
-
-.link2 {
-	padding-right: 10px;
-}
-
-.link3 {
-	padding-right: 20px;
-}
-
-.link4 {
-	padding-right: 20px;
-}*/
 /* ======= END SECTION 6 : LEGENDS =======*/
 
-/* =======  =======*/
-/* =======  =======*/
+/* ======= SECTION 7 =======*/
+/* ======= END SECTION 7 =======*/
 
-/* =======  =======*/
-/* =======  =======*/
+/* ======= SECTION 8 : DESTINATIONS =======*/
+#section8 {
+	padding-top: 50px;
+}
+
+.destinationtitle {
+	padding-bottom: 20px;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.destinations img {
+	height: 250px;
+	width: 175px;
+}
+
+.destinationscity {
+	font-size: 1.1em;
+	font-weight: bold;
+	padding-top: 10px;
+}
+/* ======= END SECTION 8 : DESTINATIONS =======*/
 
