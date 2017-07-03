@@ -192,7 +192,34 @@ i {
 }
 /* ======= END SECTION 5 : DESTINATIONS =======*/
 
-/* ======= SECTION 6 =======*/
+/* ======= SECTION 6 : LOGEMENTS =======*/
+#section6 {
+	padding-bottom: 20px;
+}
 
-/* ======= END SECTION 6 =======*/
+#section6 img {
+	height: 250px;
+	width: 368px;
+	padding-bottom: 8px;
+}
+#section6 span {
+	font-weight: bold;
+	font-size: 1.2em;
+}
 
+#section6 a {
+	text-decoration: none;
+	color: #484848;
+}
+
+.logeimg {
+	font-family: Lato;
+	font-weight: lighter;
+}
+/* ======= END SECTION 6 : LOGEMENTS =======*/
+
+/* ======= FOOTER =======*/
+#footer {
+
+}
+/* ======= END FOOTER =======*/
